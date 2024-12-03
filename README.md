@@ -54,7 +54,7 @@ This project involves:
 
 
 
-# 🏙️ Counting Cities in the USA
+### 🏙️ Counting Cities in the USA
 ![image](https://github.com/user-attachments/assets/17e30965-8002-490e-b169-8b7371e1722c)
 # 🌟 Cities Featuring "New" in Their Name
 ![image](https://github.com/user-attachments/assets/7d7829c5-bc71-42d2-aa70-5fd7e80720e6)
