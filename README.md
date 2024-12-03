@@ -4,7 +4,8 @@
 
 Welcome to my **SQL Practice Project**, where I explored a global demographic dataset to answer analytical questions, extract meaningful insights, and sharpen my SQL skills! 🚀
 
-![image](https://github.com/user-attachments/assets/25007cb4-85a4-4df2-850a-90ecd979232e)
+![image](https://github.com/user-attachments/assets/ecbaccc9-8d40-4d2f-a7f1-3e16f4dc0f4a)
+
 ---
 
 ## 🎯 **Project Goal**
