@@ -1,7 +1,6 @@
 # SQL-learning-Journey
-# 🌍 SQL Practice Project: Exploring Global Demographics
+## 🌍 SQL Practice Project: Exploring Global Demographics
 Welcome to my **SQL Practice Project**, where I explored a global demographic dataset to answer analytical questions, extract meaningful insights, and sharpen my SQL skills! 🚀
-
 ![image](https://github.com/user-attachments/assets/13d85ff4-eaf8-4551-a1c0-5d5813f62626)
 ---
 ## 🎯 **Project Goal**
