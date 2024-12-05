@@ -1,62 +1,26 @@
 # SQL-learning-Journey
-
 # 🌍 SQL Practice Project: Exploring Global Demographics
-
 Welcome to my **SQL Practice Project**, where I explored a global demographic dataset to answer analytical questions, extract meaningful insights, and sharpen my SQL skills! 🚀
 
-![image](https://github.com/user-attachments/assets/ecbaccc9-8d40-4d2f-a7f1-3e16f4dc0f4a)
-
+![image](https://github.com/user-attachments/assets/13d85ff4-eaf8-4551-a1c0-5d5813f62626)
 ---
-
 ## 🎯 **Project Goal**
 The goal of this project is to:
 - Practice SQL queries on a demographic dataset.
 - Extract meaningful insights for urban development, economic analysis, and educational purposes.
-
 ---
-
 ## 📝 **Description**
 This project involves:
 - 🏙️ **City Populations**: Identifying high-population cities and urbanization trends.
 - 📈 **Economic Analysis**: Insights into countries with high GDP per capita.
 - 👩‍⚕️ **Life Expectancy Trends**: Countries with highest and lowest life expectancies.
 - 🌎 **Global Trends**: Unique insights into global urban and rural dynamics.
-
 ---
-
 ## 🛠️ **Skills Practiced**
 - **SQL Querying and Database Management**: Crafting complex queries for data extraction and analysis.
 - **Data Aggregation and Filtering**: Using techniques like `GROUP BY`, `HAVING`, and window functions.
-- **Analytical Thinking**: Deriving insights tailored to specific stakeholder needs.
-
 ---
-
-## ⚙️ **Technology Used**
-- **MySQL**: For interacting with the demographic database.
-- **Global Demographic Dataset**: Source of structured data.
-
----
-
-## 📋 **Key Highlights**
-### 🌆 Cities Analysis
-- Ranked cities by population.
-- Identified cities with specific name patterns (e.g., starting with "Be").
-
-### 🌍 Country Demographics
-- Analyzed population density for countries with sparse populations.
-- Compared population distributions between countries.
-
-### 👩‍⚕️ Life Expectancy and GDP Insights
-- Found countries with the highest and lowest life expectancy.
-- Identified economic trends using GDP per capita.
-
----
-
-## 📊 **Query Examples and Insights**
-
-
-
-
+## 📊 **Query Examples **
 ### 🏙️ Counting Cities in the USA
 ![image](https://github.com/user-attachments/assets/17e30965-8002-490e-b169-8b7371e1722c)
 # 🌟 Cities Featuring "New" in Their Name
@@ -91,29 +55,27 @@ This project involves:
 ![image](https://github.com/user-attachments/assets/dc850592-512b-4f18-a22f-b912576632bd)
 # 🌆 Cities Ranked 31st to 40th by Population
 ![image](https://github.com/user-attachments/assets/b139d1cb-00f8-4d60-8e5a-9299d7acfca6)
-
-
+---
+## 📋 **Key Highlights**
+### 🌆 Cities Analysis
+- Ranked cities by population.
+- Identified cities with specific name patterns (e.g., starting with "Be").
+### 🌍 Country Demographics
+- Analyzed population density for countries with sparse populations.
+- Compared population distributions between countries.
+### 👩‍⚕️ Life Expectancy and GDP Insights
+- Found countries with the highest and lowest life expectancy.
+- Identified economic trends using GDP per capita.
+---
 ## 📚 **Documentation**
 - Documented the entire process: database setup, query execution, and insights derivation.
 - **Validation**: Cross-verified query outputs for accuracy and logical consistency.
-
 ---
-
 ## 🚀 **Results**
 - 🎯 Extracted actionable insights for planners, researchers, and stakeholders.
 - 🌟 Practiced and refined SQL skills in a practical context.
 - ✅ Enhanced my analytical thinking and problem-solving abilities.
-
 ---
-
-## 📩 **Connect**
-Got feedback or want to collaborate? Reach out to me!
-- 📧 Email: your_email@example.com
-- 🔗 LinkedIn: [Your LinkedIn Profile](#)
-- 🌐 Portfolio: [Your Portfolio Link](#)
-
----
-
 Thank you for checking out my SQL practice project! 🌟 Feel free to explore the code and queries in this repository.
 
 
