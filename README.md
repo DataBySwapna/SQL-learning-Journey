@@ -21,39 +21,40 @@ This project involves:
 ---
 ## 📊 **Query Examples **
 ### 🏙️ Counting Cities in the USA
-![image](https://github.com/user-attachments/assets/17e30965-8002-490e-b169-8b7371e1722c)
-# 🌟 Cities Featuring "New" in Their Name
-![image](https://github.com/user-attachments/assets/7d7829c5-bc71-42d2-aa70-5fd7e80720e6)
-# 🌆 Top 10 Most Populous Cities in the World
-![image](https://github.com/user-attachments/assets/0f97bdb8-2607-40c6-ba78-304cf83ba23a)
-# 🌍 Cities with Populations Over 2 Million
-![image](https://github.com/user-attachments/assets/1478f725-e782-40ef-bbec-7bade0934411)
-# 🌆 Cities Starting with "Be"
-![image](https://github.com/user-attachments/assets/269fa9c9-0bb0-48cb-b52e-4f25d0e573d8)
-# 🌍 Cities with Populations Between 500,000 and 1 Million
-![image](https://github.com/user-attachments/assets/46692da4-bd1a-4e47-aa0d-835968d110ef)
-# 📜 Cities Sorted Alphabetically by Name
-![image](https://github.com/user-attachments/assets/510dcaed-344e-4ecc-a5b0-1bfcd4a8cd61)
-# 🌆 Most Populated City in the Database
-![image](https://github.com/user-attachments/assets/8c3cf070-7014-47b7-966b-fcf846a8a624)
-# 📊 City Name Frequency Analysis
-![image](https://github.com/user-attachments/assets/68b1b8c0-201f-432f-a470-16a9350803a2)
-# 🌍 City with Lowest Population and Country with Highest Life Expectancy
+![image](https://github.com/user-attachments/assets/27af8c63-483c-4ab4-af72-acd438fdf6a2)
+### 🌟 Cities Featuring "New" in Their Name
+![image](https://github.com/user-attachments/assets/a45cf24c-0661-4e88-85f2-2c025b53f0da)
+### 🌆 Top 10 Most Populous Cities in the World
+![image](https://github.com/user-attachments/assets/9928d16a-76a3-47dc-bdce-7afb47d3dbbf)
+### 🌍 Cities with Populations Over 2 Million
+![image](https://github.com/user-attachments/assets/9e0d0e1c-f9f6-484d-ab03-b201fa14ebd6)
+### 🌆 Cities Starting with "Be"
+![image](https://github.com/user-attachments/assets/4a83607e-f9cd-4346-88ba-b7d94f46d009)
+### 🌍 Cities with Populations Between 500,000 and 1 Million
+![image](https://github.com/user-attachments/assets/842a3f94-13f9-4996-b871-37d73486bb9e)
+### 📜 Cities Sorted Alphabetically by Name
+![image](https://github.com/user-attachments/assets/c007a900-cea0-48ab-a1a1-41e1e649e977)
+### 🌆 Most Populated City in the Database
+![image](https://github.com/user-attachments/assets/29ef5d57-31d2-430b-b3bf-1f67b9f35509)
+### 📊 City Name Frequency Analysis
+![image](https://github.com/user-attachments/assets/86ccc546-bc3a-4dc6-abf3-dfa2de2c3abd)
+### 🌍 City with Lowest Population and Country with Highest Life Expectancy
 ![image](https://github.com/user-attachments/assets/a7b22da7-bf7e-45b7-ad49-7e2bb56cac66)
-# 🌍 City with Lowest Population and Country with Largest Population
+### 🌍 City with Lowest Population and Country with Largest Population
 ![image](https://github.com/user-attachments/assets/1bc77f3f-5fb5-4266-9100-39ea387d74e2)
-# 🌍 List of Cities in Europe
-![image](https://github.com/user-attachments/assets/9f6e4430-a976-4fd2-bd1b-18182a0558da)
-# 🌍 Average Population by Country
-![image](https://github.com/user-attachments/assets/e9ec0625-b422-42c7-bdb8-7cfe2770bff1)
-# 🏙️ Population of Capital Cities by Country
-![image](https://github.com/user-attachments/assets/c2a85d93-409c-491d-9b4c-715121d334b5)
-# 🌆 Comparing Populations of Capital Cities
-![image](https://github.com/user-attachments/assets/84ce05c3-41f5-4c5e-9286-7b189eca4041)
-# 🌎 Countries with Low Population Density
-![image](https://github.com/user-attachments/assets/dc850592-512b-4f18-a22f-b912576632bd)
-# 🌆 Cities Ranked 31st to 40th by Population
-![image](https://github.com/user-attachments/assets/b139d1cb-00f8-4d60-8e5a-9299d7acfca6)
+### 🌍 List of Cities in Europe
+![image](https://github.com/user-attachments/assets/f66de6b8-8ccf-43b0-8286-4c1b950d1611)
+### 🌍 Average Population by Country
+![image](https://github.com/user-attachments/assets/bd1b7d62-9831-4673-a7d5-423ea4c21d03)
+### 🏙️ Population of Capital Cities by Country
+![image](https://github.com/user-attachments/assets/d0258372-2ded-4ebe-869c-5826ee9361bc)
+### 🌆 Comparing Populations of Capital Cities
+![image](https://github.com/user-attachments/assets/c9ccc751-cf6e-4712-bcbf-c86f42a05128)
+### 🌎 Countries with Low Population Density
+![image](https://github.com/user-attachments/assets/8a96de23-33ff-4ac4-a2a0-1ea7a25ef81c)
+### 🌆 Cities Ranked 31st to 40th by Population
+![image](https://github.com/user-attachments/assets/f2add190-7dfa-4392-8b34-7cfbaa45d338)
+
 ---
 ## 📋 **Key Highlights**
 ### 🌆 Cities Analysis
